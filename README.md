@@ -1,4 +1,4 @@
-# This fork just set Hotkey mode to Hold out of box
+# This fork just set Hotkey mode to Hold out of the box
 <p align="center">
 	<img src="https://raw.githubusercontent.com/robiot/xclicker/master/img/banner.png" alt="XClicker" />
 </p>
