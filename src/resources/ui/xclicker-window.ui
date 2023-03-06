@@ -43,10 +43,10 @@
     </columns>
     <data>
       <row>
-        <col id="0" translatable="yes">Normal</col>
+        <col id="0" translatable="yes">Hold</col>
       </row>
       <row>
-        <col id="0" translatable="yes">Hold</col>
+        <col id="0" translatable="yes">Normal</col>
       </row>
     </data>
   </object>
@@ -343,7 +343,7 @@
                             <property name="can-focus">False</property>
                             <property name="editable">False</property>
                             <property name="width-chars">0</property>
-                            <property name="text" translatable="yes">Normal</property>
+                            <property name="text" translatable="yes">Hold</property>
                             <property name="caps-lock-warning">False</property>
                           </object>
                         </child>
